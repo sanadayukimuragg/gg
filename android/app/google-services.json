@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123924699074",
+    "project_id": "modul-4-36415",
+    "storage_bucket": "modul-4-36415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123924699074:android:c8448d0559cbaa3d45a85b",
+        "android_client_info": {
+          "package_name": "com.avalokiteshvara.ioshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123924699074-n9dfh0ffdir9g7c0rbusad3k3itne97i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3EykEKMmmF8aWBr8uYo1VIuuKLGSnFpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123924699074-n9dfh0ffdir9g7c0rbusad3k3itne97i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
